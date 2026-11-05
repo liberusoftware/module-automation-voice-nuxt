@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-voice-nuxt",
+  "capabilityKey": "liberusoftware/automation-voice",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-automation-voice-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/automation/nextjs/voice.md",
+  "presentationPlan": "projects/automation/nuxt/voice.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
